@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Sikta Mohanty <img src="./Social/Hi.gif" width="25px"></h1>
+<h1 align="center">Hey There, I'm Abraham Fatoki <img src="./Social/Hi.gif" width="25px"></h1>
 <hr>
 <h2 align="center">📬 Find Me At</h2>
 <p align="center">
@@ -6,6 +6,7 @@
     <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="25" src="./Social/Instagram.svg"> Instagram</a></code>
     <code><a href="https://twitter.com/abrahamfatoki" title="Twitter Profile"><img width="25" src="./Social/Twitter.svg"> Twitter</a></code>
     <code><a href="mailto:fatokiabraham@gmail.com?body=Hey!" title="Gmail"><img width="25" src="./Social/Gmail.png"> Gmail</a></code>
+    <code><a href="https://heritage20.github.io/my-portfolios/" title="GitHub"><img width="25" src="./Social/GitHub.png"> GitHub</a></code>
 </p>
 <h2 align = "center">
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
