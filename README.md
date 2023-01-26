@@ -11,9 +11,15 @@
 <h2 align = "center">
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 <p align = "center">
- <img src="https://media0.giphy.com/media/RgnqqDjzirWuFAqlR6/giphy.gif?cid=ecf05e47hdt0egaplwt9rqmxf9twjrzdfurqbrbqz7unbch0&rid=giphy.gif&ct=s" width = "30"> I'm an Undergrad student pursuing my Bachelor of Technology in Computer Science & System Engineering (CSSE) from <a href="https://kiit.ac.in/?__cf_chl_managed_tk__=ZkwOdbgRXxF1AIQUdCLxhfF4.qPI93znXJ1Gkd5ZR5s-1636089809-0-gaNycGzNBxE"> KIIT University</a>, Bhubaneshwar.
+ <img src="https://media0.giphy.com/media/RgnqqDjzirWuFAqlR6/giphy.gif?cid=ecf05e47hdt0egaplwt9rqmxf9twjrzdfurqbrbqz7unbch0&rid=giphy.gif&ct=s" width = "30"> I'm a graduate student pursuing my Masters of Science in Animal Breeding and Genetics (ABG) from <a href="https://www.ui.edu.ng/">University of Ibadan</a>, Ibadan, Nigeria.
 <br>
- <img src="https://media4.giphy.com/media/t8WhfLXvdufhY1shac/giphy.gif?cid=ecf05e47kht9w302pda4naj9gtvb2u69hsnm2ikovzkya177&rid=giphy.gif&ct=s" width = "30"> I am currently working on Frontend Mentor challenges using HTML, CSS, JavaScript and Figma.
+ <img src="https://media4.giphy.com/media/t8WhfLXvdufhY1shac/giphy.gif?cid=ecf05e47kht9w302pda4naj9gtvb2u69hsnm2ikovzkya177&rid=giphy.gif&ct=s" width = "30"> I am currently working on Frontend challenges using HTML, CSS, JavaScript and React.
+</p>
+<p align = "center">
+ <img src="https://intranet.alxswe.com/" width = "30"> A student at OneCampus, learning Data Science.
+</p>
+<p align = "center">
+ <img src="https://intranet.alxswe.com/" width = "30"> A student at ALX, learning Software Engineering.
 </p>
 <h2 align = "center">Tools 🛠️ </h2>
 <p align = "center">
