@@ -16,10 +16,10 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
  <img src="https://media4.giphy.com/media/t8WhfLXvdufhY1shac/giphy.gif?cid=ecf05e47kht9w302pda4naj9gtvb2u69hsnm2ikovzkya177&rid=giphy.gif&ct=s" width = "30"> I am currently working on Frontend challenges using HTML, CSS, JavaScript and React.
 </p>
 <p align = "center">
- <img src="https://intranet.alxswe.com/" width = "30"> A student at OneCampus, learning Data Science.
+ <a href="https://worldacademy.onecampus.co/"> A student at OneCampus, learning Data Science.</a> 
 </p>
 <p align = "center">
- <img src="https://intranet.alxswe.com/" width = "30"> A student at ALX, learning Software Engineering.
+ <a href="https://intranet.alxswe.com/"> A student at ALX, learning Software Engineering.</a> 
 </p>
 <h2 align = "center">Tools 🛠️ </h2>
 <p align = "center">
