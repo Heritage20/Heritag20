@@ -21,6 +21,9 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <p align = "center">
  <a href="https://intranet.alxswe.com/"> A student at ALX, learning Software Engineering.</a> 
 </p>
+<p align = "center">
+ <a href="https://heritage20.github.io/my-portfolios/"> My portfolio.</a> 
+</p>
 <h2 align = "center">Tools 🛠️ </h2>
 <p align = "center">
 <code><img title="C++" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"></code>
