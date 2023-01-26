@@ -3,7 +3,7 @@
 <h2 align="center">📬 Find Me At</h2>
 <p align="center">
     <code><a href="https://www.linkedin.com/in/abrahamfatoki/" title="LinkedIn Profile"><img width="25" src="./social/linkedin-logo-2430.svg"> LinkedIn</a></code>
-    <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="25" src="./Social/instagram-logo-8869.svg"> Instagram</a></code>
+    <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="25" src="https://media.giphy.com/media/3oEjHFnRdGNWCbCOXK/giphy.gif"> Instagram</a></code>
     <code><a href="https://twitter.com/abrahamfatoki" title="Twitter Profile"><img width="25" src="./social/Twitter.png"> Twitter</a></code>
     <code><a href="mailto:fatokiabraham@gmail.com?body=Hey!" title="Gmail"><img width="25" src="./social/Gmail.png"> Gmail</a></code>
 </p>
