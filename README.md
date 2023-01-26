@@ -6,7 +6,6 @@
     <code><a href="https://www.instagram.com/_siktamohanty_/" title="Instagram Profile"><img width="25" src="./Social/instagram-logo-8869.svg"> Instagram</a></code>
     <code><a href="https://twitter.com/abrahamfatoki" title="Twitter Profile"><img width="25" src="./social/Twitter.png"> Twitter</a></code>
     <code><a href="mailto:fatokiabraham@gmail.com?body=Hey!" title="Gmail"><img width="25" src="./social/Gmail.png"> Gmail</a></code>
-    <code><a href="https://heritage20.github.io/my-portfolios/" title="GitHub"><img width="25" src="./social/GitHub.png"> GitHub</a></code>
 </p>
 <h2 align = "center">
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
