@@ -10,23 +10,8 @@
 </p>
 <h2 align = "center">
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
-<p align = "center">
- <a href="https://heritage20.github.io/my-portfolios/"> My portfolio.</a> 
-</p>
-<p align = "center">
- <img src="https://media0.giphy.com/media/RgnqqDjzirWuFAqlR6/giphy.gif?cid=ecf05e47hdt0egaplwt9rqmxf9twjrzdfurqbrbqz7unbch0&rid=giphy.gif&ct=s" width = "30"> I'm a graduate student pursuing my Masters of Science in Animal Breeding and Genetics (ABG) from <a href="https://www.ui.edu.ng/">University of Ibadan</a>, Ibadan, Nigeria.
-<br>
- <img src="https://media4.giphy.com/media/t8WhfLXvdufhY1shac/giphy.gif?cid=ecf05e47kht9w302pda4naj9gtvb2u69hsnm2ikovzkya177&rid=giphy.gif&ct=s" width = "30"> I am adept in working with Frontend software development using HTML, CSS and JavaScript.
-</p>
-<p align = "center">
- I am currently honing my skills in Python and Backend software development with NodeJS
-</p>
-<p align = "center">
- <a href="https://worldacademy.onecampus.co/"> A student at OneCampus, learning Data Science.</a> 
-</p>
-<p align = "center">
- <a href="https://intranet.alxswe.com/"> A student at ALX, learning Software Engineering.</a> 
-</p>
+
+
 <h2 align = "center">Tools 🛠️ </h2>
 <p align = "center">
 <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code>
