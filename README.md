@@ -16,8 +16,10 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <p align = "center">
 <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code>
 <code><img title="Python" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"></code>
+<code><img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg"></code>
 <code><img title="React" height="40" src="https://cdn.cdnlogo.com/logos/r/85/react.svg"></code>
 <code><img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg"></code>
+<code><img title="Mongo" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></code>
 <code><img title="Problem Solving" height="40" src="./social/Rubiks-Cube.png"></code>
 <code><img title="MySQL" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
 <code><img title="HTML5" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png"></code>
