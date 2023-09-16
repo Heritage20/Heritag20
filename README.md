@@ -21,6 +21,7 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <code><img title="Angular" height="40" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg"></code>
 <code><img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg"></code>
 <code><img title="Mongo" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></code>
+<code><img title="Nestjs" height="40" src="https://commons.wikimedia.org/wiki/File:NestJS.svg#/media/File:NestJS.svg"></code>
 <code><img title="Problem Solving" height="40" src="./social/Rubiks-Cube.png"></code>
 <code><img title="MySQL" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
 <code><img title="HTML5" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png"></code>
