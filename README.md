@@ -14,8 +14,8 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 
 <h2 align = "center">Tools 🛠️ </h2>
 <p align = "center">
-<code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code>
-<code><img title="Python" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png"></code>
+<!-- <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code> -->
+<code><img title="Python" height="40" src="https://www.cdnlogo.com/logos/p/3/python.svg"></code>
 <code><img title="Django" height="40" src="https://www.cdnlogo.com/logos/d/3/django.svg"></code>
 <code><img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg"></code>
 <code><img title="JavaScript" height="40" src="https://www.cdnlogo.com/logos/j/44/javascript.svg"></code>
@@ -24,11 +24,11 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <code><img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg"></code>
 <code><img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/n/57/nestjs.svg"></code>
 <code><img title="MongoDB" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></code>
-<code><img title="MySQL" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/mysql-6-logo-png-transparent.png"></code>
-<code><img title="HTML5" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png"></code>
-<code><img title="CSS" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"></code>
+<code><img title="MySQL" height="40" src="https://www.cdnlogo.com/logos/p/25/powered-by-mysql.svg"></code>
+<code><img title="HTML5" height="40" src="https://www.cdnlogo.com/logos/h/84/html.svg"></code>
+<code><img title="CSS" height="40" src="https://www.cdnlogo.com/logos/c/18/css.svg"></code>
 <code><img title="Git" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"></code>
-<code><img title="GitHub" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png"></code>
+<code><img title="GitHub" height="40" src="https://www.cdnlogo.com/logos/g/69/github-icon.svg"></code>
 <code><img title="Problem Solving" height="40" src="./social/Rubiks-Cube.png"></code>
 </p>
 <h2 align = "center">
