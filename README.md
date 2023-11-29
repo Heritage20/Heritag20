@@ -2,11 +2,11 @@
 <hr>
 <h2 align="center">📬 Find Me At</h2>
 <p align="center">
-    <code><a href="https://www.linkedin.com/in/abrahamfatoki" title="LinkedIn"><img width="25" src="./social/linkedin-logo-2430.svg"> LinkedIn</a></code>
+    <code><a href="https://www.linkedin.com/in/abrahamfatoki" title="LinkedIn" _blank=True><img width="25" src="./social/linkedin-logo-2430.svg"> LinkedIn</a></code>
 <!--     <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="25" src="./social/Instagram.png"> Instagram</a></code> -->
-    <code><a href="https://twitter.com/abrahamfatoki" title="X"><img width="25" src="./social/Twitter.png"> Twitter</a></code>
-<!--     <code><a href="mailto:fatokiabraham@gmail.com?body=Hey!" title="Gmail"><img width="25" src="./social/Gmail.png"> Gmail</a></code> -->
-    <code><a href="https://github.com/Heritage20/" title="Github"><img width="25" src="./social/GitHub-Mark.png"> GitHub</a></code>
+    <code><a href="https://twitter.com/abrahamfatoki" title="X" _blank=True><img width="25" src="./social/Twitter.png"> Twitter</a></code>
+<!--     <code><a href="mailto:fatokiabraham@gmail.com?body=Hey!" title="Gmail" _blank=True><img width="25" src="./social/Gmail.png"> Gmail</a></code> -->
+    <code><a href="https://github.com/Heritage20/" title="Github" _blank=True><img width="25" src="./social/GitHub-Mark.png"> GitHub</a></code>
 </p>
 <h2 align = "center">
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
