@@ -12,7 +12,7 @@
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 
-<table align = "center">
+<table align = "center" style="width: 100%">
     <thead>
         <tr>
             <th>Category</th>
