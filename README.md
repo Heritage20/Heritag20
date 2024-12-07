@@ -12,28 +12,60 @@
 A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 
-<h2 align = "center">Tools 🛠️ </h2>
-<p align = "center">
-<!-- <code><img title="C" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png"></code> -->
-<code><img title="Python" height="40" src="https://www.cdnlogo.com/logos/p/3/python.svg"></code>
-<code><img title="JavaScript" height="40" src="https://www.cdnlogo.com/logos/j/44/javascript.svg"></code>
-<code><img title="Php" height="40" src="https://cdn.cdnlogo.com/logos/p/44/php.svg"></code>
-<code><img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg"></code>
-<br />
-<code><img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/n/57/nestjs.svg"></code>
-<code><img title="Django" height="40" src="https://www.cdnlogo.com/logos/d/3/django.svg"></code>
-<code><img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg"></code>
-<code><img title="Laravel" height="40" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg"></code>
-<code><img title="React" height="40" src="https://cdn.cdnlogo.com/logos/r/85/react.svg"></code>
-<code><img title="Angular" height="40" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg"></code>
-<code><img title="MongoDB" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></code>
-<code><img title="MySQL" height="40" src="https://www.cdnlogo.com/logos/p/25/powered-by-mysql.svg"></code>
-<code><img title="HTML5" height="40" src="https://www.cdnlogo.com/logos/h/84/html.svg"></code>
-<code><img title="CSS" height="40" src="https://www.cdnlogo.com/logos/c/18/css.svg"></code>
-<code><img title="Git" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png"></code>
-<code><img title="GitHub" height="40" src="https://www.cdnlogo.com/logos/g/69/github-icon.svg"></code>
-<code><img title="Problem Solving" height="40" src="./social/Rubiks-Cube.png"></code>
-</p>
+<table align = "center">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Tools / Languages</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Programming Languages 🧑🏽‍💻</strong></td>
+            <td>
+                <img title="Python" height="40" src="https://www.cdnlogo.com/logos/p/3/python.svg">
+                <img title="JavaScript" height="40" src="https://www.cdnlogo.com/logos/j/44/javascript.svg">
+                <img title="Php" height="40" src="https://cdn.cdnlogo.com/logos/p/44/php.svg">
+                <img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg">
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Frameworks / Libraries ⚖️</strong></td>
+            <td>
+                <img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/n/57/nestjs.svg">
+                <img title="Django" height="40" src="https://www.cdnlogo.com/logos/d/3/django.svg">
+                <img title="Flask" height="40" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg">
+                <img title="Laravel" height="40" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg">
+                <img title="React" height="40" src="https://cdn.cdnlogo.com/logos/r/85/react.svg">
+                <img title="Angular" height="40" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg">
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Databases </strong></td>
+            <td>
+                <img title="MongoDB" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg">
+                <img title="MySQL" height="40" src="https://www.cdnlogo.com/logos/p/25/powered-by-mysql.svg">
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Web Languages 🧑🏽‍💻</strong></td>
+            <td>
+                <img title="HTML5" height="40" src="https://www.cdnlogo.com/logos/h/84/html.svg">
+                <img title="CSS" height="40" src="https://www.cdnlogo.com/logos/c/18/css.svg">
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Others 🎯</strong></td>
+            <td>
+                <img title="Git" height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/git-logo.png">
+                <img title="GitHub" height="40" src="https://www.cdnlogo.com/logos/g/69/github-icon.svg">
+                <img title="Problem Solving" height="40" src="./social/Rubiks-Cube.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 <h2 align = "center">
 <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> Thanks for Visiting! <img src="https://media1.giphy.com/media/4uyBfovScfdhQAqXQ9/giphy.gif?cid=ecf05e4782jnhubezkdqdnd5x63r5u8tdgnb0cohx40lz67v&rid=giphy.gif&ct=s" width = "50"> </h2>
 <hr style = "height:4px" noshade>
