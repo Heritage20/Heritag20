@@ -23,6 +23,8 @@ A little something about me <img src="https://media.giphy.com/media/VgCDAzcKvsR6
 <code><img title="Angular" height="40" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg"></code>
 <code><img title="Node" height="40" src="https://cdn.cdnlogo.com/logos/n/79/node-js.svg"></code>
 <code><img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/n/57/nestjs.svg"></code>
+<code><img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/p/79/php.svg"></code>
+<code><img title="Nestjs" height="40" src="https://cdn.cdnlogo.com/logos/l/23/laravel.svg"></code>
 <code><img title="MongoDB" height="40" src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg"></code>
 <code><img title="MySQL" height="40" src="https://www.cdnlogo.com/logos/p/25/powered-by-mysql.svg"></code>
 <code><img title="HTML5" height="40" src="https://www.cdnlogo.com/logos/h/84/html.svg"></code>
